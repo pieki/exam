@@ -1,0 +1,4 @@
+git add .
+git commit -m "pieki-jd"
+git tag v0.X
+git push --tag
